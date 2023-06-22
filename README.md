@@ -7,7 +7,7 @@
 
 ## TECH STACK
 - React JS
-- Nod
+- Node
 - NPM
 - Redux State Management
 
